@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cys4501260/My-demo#readme",
   "dependencies": {
-    "vue": "^2.6.10"
+    "vue": "^3.0.0"
   }
 }
